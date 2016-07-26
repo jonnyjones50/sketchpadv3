@@ -1,0 +1,14 @@
+html  {
+  background-color: white;
+}
+
+#sketch {
+  margin: 30px auto;
+  height: 720px; width:720px;
+  display:block;
+}
+
+.square {
+  background-color: black;
+  display: inline-block;
+}
